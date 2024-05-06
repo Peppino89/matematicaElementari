@@ -1,0 +1,17 @@
+
+W
+.container{
+    margin-top: 10px;
+    height:310px;
+}
+
+#tabellina {
+    margin-top: 50px;
+    
+}
+
+img{
+    object-fit: cover;
+    height: 600px;
+    width: 100%
+}
